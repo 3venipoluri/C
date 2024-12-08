@@ -1,5 +1,4 @@
 # C
-Here is the information you provided, formatted properly with headings, sections, and improved clarity for readability:
 
 ---
 
